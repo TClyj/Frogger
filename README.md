@@ -2,7 +2,7 @@
 
 Owner: **Yijia Lu**
 
-It is a project which writing Systemverilog code in Quartus and building needed hardware to achieve the classic arcade game "Frogger".
+It is a project which writing Systemverilog code in Quartus and building needed hardware to achieve the classic arcade game **"Frogger"**.
 
 For this project, the user input is the four key button to control the movement of the frog. The
 LED array will react based on the input signal. Also, the location of the frog will be updated
